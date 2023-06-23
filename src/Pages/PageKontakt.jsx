@@ -1,9 +1,9 @@
-import React from 'react'
+
 
 const PageKontakt = () => {
   return (
     <div>
-      
+      Heyyy
     </div>
   )
 }

@@ -1,4 +1,5 @@
-import React from 'react'
+import { Router,Routes } from 'react-dom/client';/* was soll hier hin */
+
 
 const Router = () => {
   return (
